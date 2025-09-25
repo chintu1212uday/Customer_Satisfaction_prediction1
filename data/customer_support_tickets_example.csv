@@ -1,0 +1,6 @@
+Ticket ID,Customer Name,Customer Email,Customer Age,Customer Gender,Product Purchased,Date of Purchase,Ticket Type,Ticket Subject,Ticket Description,Ticket Status,Resolution,Ticket Priority,Ticket Channel,First Response Time,Time to Resolution,Customer Satisfaction Rating
+1,A,a@example.com,25,Male,Phone,2021-03-22,Technical issue,Product setup,Issue A,Pending,,Critical,Social media,,,5.0
+2,B,b@example.com,34,Female,Laptop,2021-05-22,Technical issue,Peripheral compatibility,Issue B,Closed,Fixed,Low,Chat,,,4.0
+3,C,c@example.com,45,Female,Camera,2020-07-14,Technical issue,Network problem,Issue C,Closed,Fixed,Low,Social media,,,3.0
+4,D,d@example.com,23,Other,Software,2020-11-13,Billing inquiry,Account access,Issue D,Closed,Fixed,Low,Email,,,2.0
+5,E,e@example.com,67,Male,Phone,2020-02-04,Refund request,Data loss,Issue E,Pending,,Critical,Social media,,,1.0
